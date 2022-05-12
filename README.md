@@ -11,5 +11,5 @@
 7.redis
 
 git clone 
-ทำการ docker-compose up -d
-
+docker-compose up -d
+docker-compose exce app composer install
